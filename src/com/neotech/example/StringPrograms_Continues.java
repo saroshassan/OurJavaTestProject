@@ -38,21 +38,21 @@ public class StringPrograms_Continues {
 //			
 //		}
 //		System.out.println(str2);
-		
-		String str1="How to get a word";
-		String space="",lSpace="";
-		
-		for(int i=0;i<str1.length();i++)
-		{
-			char c=str1.charAt(i);
-			if(c!=' ')
-				space+=c;
-			else {
-				System.out.println(space);
-				space="";
-			}
-			
-		}
+//		
+//		String str1="How to get a word";
+//		String space="",lSpace="";
+//		
+//		for(int i=0;i<str1.length();i++)
+//		{
+//			char c=str1.charAt(i);
+//			if(c!=' ')
+//				space+=c;
+//			else {
+//				System.out.println(space);
+//				space="";
+//			}
+//			
+//		}
 		
 		
 		
